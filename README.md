@@ -1,4 +1,4 @@
-# exam_fin
+# Instrucciones
 *Sistema de Organización de Productos*
 *Estructura:*
 Este proyecto esta conformado por las siguientes clases y carpetas:
